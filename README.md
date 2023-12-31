@@ -1,6 +1,6 @@
 # link preview :
 
-https://karimashour.github.io/squash/
+https://karimashour.github.io/medic-care/
 
 <img src="image.png"/>
 
