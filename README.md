@@ -8,9 +8,9 @@ https://karimashour.github.io/medic-care/
 - html
 - css
 - bootstrap
-- bootstrap icons
+- javascript
 - jquery
 
 
 # features
-- squash sport landing page 
+- medic-care website landing page 
